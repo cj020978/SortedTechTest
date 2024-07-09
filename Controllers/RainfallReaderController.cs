@@ -27,7 +27,10 @@ namespace SortedTechTest.Controllers
                 if (rainfallData == null || rainfallData.Items == null || rainfallData.Items.Length == 0)
                     return NotFound(Error.ErrorManager.RaiseNotFoundError());
 
-                return new RainfallReading[] { new RainfallReading() };
+                if (rainfallData.Items.Length >= count)
+                    rainfallData.Items = rainfallData.Items[0..count];
+
+                return rainfallData.Items.Select(data => new RainfallReading { dateMeasured = data.DateTime, amountMeasured = data.Value }).ToArray();
             }
             catch
             {
