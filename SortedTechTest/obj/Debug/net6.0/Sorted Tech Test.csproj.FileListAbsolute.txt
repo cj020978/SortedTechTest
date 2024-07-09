@@ -1,0 +1,32 @@
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\Sorted Tech Test.csproj.AssemblyReference.cache
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\Sorted Tech Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\Sorted Tech Test.AssemblyInfoInputs.cache
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\Sorted Tech Test.AssemblyInfo.cs
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\Sorted Tech Test.csproj.CoreCompileInputs.cache
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\Sorted Tech Test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\Sorted Tech Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\bin\Debug\net6.0\appsettings.json
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\bin\Debug\net6.0\Sorted Tech Test.exe
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\bin\Debug\net6.0\Sorted Tech Test.deps.json
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\bin\Debug\net6.0\Sorted Tech Test.runtimeconfig.json
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\bin\Debug\net6.0\Sorted Tech Test.dll
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\bin\Debug\net6.0\Sorted Tech Test.pdb
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\staticwebassets\msbuild.Sorted Tech Test.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\staticwebassets\msbuild.build.Sorted Tech Test.props
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sorted Tech Test.props
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sorted Tech Test.props
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\scopedcss\bundle\Sorted Tech Test.styles.css
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\Sorted T.0D629289.Up2Date
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\Sorted Tech Test.dll
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\refint\Sorted Tech Test.dll
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\Sorted Tech Test.pdb
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\Sorted Tech Test.genruntimeconfig.cache
+C:\Users\lucid\source\repos\Sorted Tech Test\Sorted Tech Test\obj\Debug\net6.0\ref\Sorted Tech Test.dll

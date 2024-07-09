@@ -1,6 +1,0 @@
-@SortedTechTest_HostAddress = http://localhost:5252
-
-GET {{SortedTechTest_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

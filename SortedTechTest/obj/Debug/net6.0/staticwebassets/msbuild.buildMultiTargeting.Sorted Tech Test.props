@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sorted Tech Test.props" />
+</Project>
