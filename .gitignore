@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SortedTechTest/DesignTimeBuild
+/.vs/SortedTechTest/FileContentIndex
+/.vs/SortedTechTest/v17
+/bin/Debug/net8.0
+/obj
